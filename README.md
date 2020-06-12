@@ -1,6 +1,6 @@
 # Expense Tracker (React)
 
-This is a Basic Expense Tracker App using React. it uses functional Components, Hooks and Context API.
+This is a Basic Expense Tracker App made using React. it uses functional Components, Hooks and Context API.
 
 ## Usage
 
